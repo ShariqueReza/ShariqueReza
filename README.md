@@ -56,4 +56,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariquereza&show_icons=true&locale=en" alt="shariquereza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariquereza&" alt="shariquereza" /></p>
