@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharique Reza</h1>
-<h3 align="center">Full-Stack Developer Enthusiast</h3>
+<h3 align="center">As a fresh Engineering graduate from Netaji Subhash Engineering College, I have swiftly moved into a role that allows me to blend my technical skills with real business impacts as a Programmer Analyst at Cognizant.
+With 2 years hands-on expertise in Python, Django, and front-end technologies, I tackle challenges head-on to develop solutions that not only meet but exceed expectations. My work revolves around optimizing web functionalities, refined overall code efficiency and Enhanced existing web applications through collaborative efforts involving Python and Django that stand out for their intuitiveness and effectiveness.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariquereza&label=Profile%20views&color=0e75b6&style=flat" alt="shariquereza" /> </p>
 
